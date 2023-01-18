@@ -14,7 +14,7 @@ const Right = ({ eventno }) => {
         <img src={numberImage[eventno]} alt="" class="mb-3 pl-5 sm:pl-0 " />
         <div class="event-right-text-box">
           <div class="event-right-subtitle mb-3 text-white rounded pl-5 sm:pl-0">
-            Sample text xyzzzz
+            
           </div>
           <h1 class="event-right-title text-5xl mb-6 font-extrabold pl-5 sm:pl-0 text-white ">
             IPL AUCTION
